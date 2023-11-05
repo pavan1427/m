@@ -1,0 +1,16 @@
+.text {
+    position: absolute;
+    top: 0;
+    left:0;
+    
+    height: 100%;
+    width: 100%;
+    color:#fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 90px;
+    font-weight: 1000;
+    mix-blend-mode: multiply;
+    filter: drop-shadow(10px 8px 6px #d10e0eb9);
+}
